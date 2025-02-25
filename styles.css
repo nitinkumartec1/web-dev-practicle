@@ -1,0 +1,37 @@
+body{
+  
+  font-size: 8px;
+}
+
+
+
+.left{
+   display: flex;
+  background-color: rgb(184, 197, 236);
+  height: 20px;
+  
+  
+  
+}
+.right{
+ 
+  background-color: rgb(186, 228, 228);
+  
+}
+ul{
+  display: flex;
+}
+li{ 
+  margin-left: 4px;
+  display: flex;
+  
+   
+}
+li a{
+  text-decoration: none;
+}
+section{
+  height: 100vh;
+  background-color: antiquewhite;
+  margin: 30px;
+}
